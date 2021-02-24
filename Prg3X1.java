@@ -3,5 +3,6 @@ public class Prg3X1{
         System.out.println("Go home");
         //good
         //lord 
+        //fuck
     }
 }
